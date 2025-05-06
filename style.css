@@ -5,6 +5,7 @@
     padding: 0;
     --big-font: "Fascinate";
     --skinny-font: "PT Sans Narrow";
+    /* --primary-color: ; */
 }
 body {
     background: rgb(166, 165, 165);
@@ -17,4 +18,6 @@ body {
     color: white;
     text-align: center;
     padding: 30px;
+    font-family: var(--big-font);
+    font-style:italic;
 }

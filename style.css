@@ -34,3 +34,11 @@ body {
     font-family: var(--skinny-font);
     font-size: 36px;
 }
+
+main {
+    display: flex;
+}
+.article {
+    background: white;
+    flex-basis: 70%;
+}

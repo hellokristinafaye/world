@@ -44,3 +44,7 @@ main {
     padding: 30px;
     margin: 15px 15px 15px 0;
 }
+.article-heading {
+    font-family: var(--big-font);
+    font-style: italic;
+}

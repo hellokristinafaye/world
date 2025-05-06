@@ -58,3 +58,10 @@ main {
     font-style:italic;
     margin: 10px 0;
 }
+
+.sidebar {
+    background: var(--primary-color);
+    padding: 20px;
+    flex-basis: 25%;
+    margin: 15px 0;
+}

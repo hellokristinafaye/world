@@ -70,3 +70,9 @@ main {
     text-align: center;
     font-style:italic;
 }
+.aside-list {
+    padding: 10px 25px;
+}
+.aside-LI-link {
+    color:rgba(154, 121, 238, 0.89)
+}

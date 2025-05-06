@@ -3,6 +3,8 @@
 * {
     margin: 0;
     padding: 0;
+    --big-font: "Fascinate";
+    --skinny-font: "PT Sans Narrow";
 }
 body {
     background: rgb(166, 165, 165);

@@ -24,7 +24,9 @@ body {
 }
 .navbar {
     background: var(--primary-color);
-    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 .nav-link {
     color: black;

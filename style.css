@@ -53,3 +53,8 @@ main {
     font-family: var(--skinny-font);
     margin: 10px 0;
 }
+.article h3 {
+    font-family: var(--big-font);
+    font-style:italic;
+    margin: 10px 0;
+}

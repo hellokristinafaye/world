@@ -47,4 +47,5 @@ main {
 .article-heading {
     font-family: var(--big-font);
     font-style: italic;
+    text-align: center;
 }

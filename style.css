@@ -76,3 +76,10 @@ main {
 .aside-LI-link {
     color:rgba(154, 121, 238, 0.89)
 }
+
+.copyright-text {
+    font-family: var(--skinny-font);
+    background: white;
+    padding: 30px;
+    margin-bottom: 30px;
+}

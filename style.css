@@ -22,3 +22,8 @@ body {
     font-style:italic;
     text-shadow: 4px 4px 11px var(--primary-color);
 }
+.nav-link {
+    background: var(--primary-color);
+    color: black;
+    
+}

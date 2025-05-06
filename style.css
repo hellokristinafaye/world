@@ -65,3 +65,8 @@ main {
     flex-basis: 25%;
     margin: 15px 0;
 }
+.sidebar-title {
+    font-family: var(--big-font);
+    text-align: center;
+    font-style:italic;
+}

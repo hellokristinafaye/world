@@ -22,8 +22,11 @@ body {
     font-style:italic;
     text-shadow: 4px 4px 11px var(--primary-color);
 }
-.nav-link {
+.navbar {
     background: var(--primary-color);
+    
+}
+.nav-link {
     color: black;
     font-family: var(--skinny-font);
     font-size: 36px;

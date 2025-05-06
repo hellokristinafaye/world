@@ -49,3 +49,7 @@ main {
     font-style: italic;
     text-align: center;
 }
+.article p {
+    font-family: var(--skinny-font);
+    margin: 10px 0;
+}

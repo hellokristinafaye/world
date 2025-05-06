@@ -11,6 +11,8 @@ Features:
 
 Notes:
 
+- took 37 minutes (since this readme was added/started)
+
 Challenges:
 
 Future Development:

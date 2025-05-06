@@ -5,7 +5,7 @@
     padding: 0;
     --big-font: "Fascinate";
     --skinny-font: "PT Sans Narrow";
-    /* --primary-color: ; */
+    --primary-color: rgba(79, 18, 233, 0.89);
 }
 body {
     background: rgb(166, 165, 165);
@@ -20,5 +20,5 @@ body {
     padding: 30px;
     font-family: var(--big-font);
     font-style:italic;
-    text-shadow: 4px 4px 11px rgba(79, 18, 233, 0.89);
+    text-shadow: 4px 4px 11px var(--primary-color);
 }
